@@ -51,7 +51,7 @@ Open the URL shown in the terminal
 
 
 **Time Spent**
-51 mins used to complete the task and run basic test ensuring app was working
+1hour 51 mins used to complete the task and run basic test ensuring app was working
 
 **How I tackled the task**
 
