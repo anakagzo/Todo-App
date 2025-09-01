@@ -16,7 +16,11 @@ cd backend
 2. Install dependencies (if using virtual environment):
 pip install -r requirements.txt
 
-3. Start the FastAPI server:
+3. Connect to your local Postgres database:
+Create a `.env` file in the backend folder and add:
+DATABASE_URL=postgresql+psycopg2://<username>:<password>@localhost:5432/<database_name>
+
+4. Start the FastAPI server:
 uvicorn app.main:app --reload
 API will run at: http://localhost:8000
 
