@@ -4,8 +4,6 @@
 A simple ToDo application with a **React + TypeScript frontend** and **FastAPI + Postgres backend**.  
 Tasks can be created, marked complete, updated, and deleted, with persistence in Postgres.
 
----
-
 ## Backend
 
 - **Framework:** FastAPI  
@@ -24,9 +22,8 @@ uvicorn app.main:app --reload
 API will run at: http://localhost:8000
 
 **Frontend**
-Framework: React + TypeScript
-
-Generated with: Lovable
+- **Framework**: React + TypeScript
+- **Generated with**: Lovable
 
 **How to run:**
 1. Navigate to the frontend folder:
