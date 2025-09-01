@@ -3,6 +3,9 @@ backend/myvenv/
 *.pyc
 __pycache__/
 
+#backup
+frontend/frontend-backup/
+
 # Node
 frontend/node_modules/
 frontend/dist/
