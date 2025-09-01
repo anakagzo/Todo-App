@@ -5,7 +5,6 @@ A simple ToDo application with a **React + TypeScript frontend** and **FastAPI +
 Tasks can be created, marked complete, updated, and deleted, with persistence in Postgres.
 
 ## Backend
-
 - **Framework:** FastAPI  
 - **Database:** PostgreSQL (SQLAlchemy ORM)  
 - **CORS:** Enabled for frontend access  
@@ -51,8 +50,8 @@ Open the URL shown in the terminal
 51 mins used to complete the task and run basic test ensuring app was working
 
 **How I tackled the task**
+
 **Backend**: Used ChatGPT to quickly draft FastAPI backend and edited for correctness.
-
 **Frontend**: Created the UI in Lovable, then edited it to integrate cleanly with the backend API.
-
 **Tools used**: Python, FastAPI, SQLAlchemy, PostgreSQL, React + TypeScript, Lovable, ChatGPT.
+**Notes**: I leveraged ChatGPT to speed up development and streamline the process, allowing me to complete the app within the time limit. ChatGPT played a key role in the development workflow and highlighted how valuable AI can be for developers in building applications efficiently.
